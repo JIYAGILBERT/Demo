@@ -5,3 +5,8 @@ Python is a computer programming language that's used for a variety of purposes,
 Building websites and software: Python is a general-purpose language that can be used to create different programs. 
 Automating tasks: Python can automate processes, which can save time. 
 Analyzing data: Python is used to analyze data
+
+The name: Python is named after the British TV show Monty Python's Flying Circus. 
+Arrays: Arrays aren't part of standard Python, but they can be added with an additional package called NumPy. 
+Django: Django is an open-source web framework written in Python. 
+OpenCV: OpenCV-Python is a library that developers use to process images for computer vision applications. 
