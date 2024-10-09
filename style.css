@@ -1,16 +1,15 @@
 .main{
     height: 100vh;
     width: 100%;
-    background-color:white;
-    display: flex;
-    justify-content: space-between ;
-    text-align: center;
-    text-align: end;
+    background-color:rgb(233, 235, 233);
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-template-rows: repeat(3,1fr);
 }
 .main1{
     height: 400px;
     width: 600px;
-    background-color: rgb(19, 233, 240);
+    background-color: rgb(86, 216, 188);
 
     
 
