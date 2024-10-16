@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bouncng ball</title>
+    <style>
+        .ball{
+            height: 100px;
+            width:100px;
+            border-radius: 50%;
+            background-color:orangered;
+            position: absolute;
+            animation: bounce 1s infinite alternate;
+            animation-delay: 2s;
+
+        }
+        @keyframes bounce{
+            0%{
+            
+            }
+            10%{
+                top: 10%;
+            }
+            20%{
+                top: 25%;
+            }
+            21%{
+                top: 30%;
+            }
+            22%{
+                top: 40%;
+            }
+            30%{
+                top: 55%;
+
+            }
+            90%{
+                top: 95%;
+            }
+            100%{
+                top: 100%;
+            }
+
+
+
+                    
+        }
+    </style>
+</head>
+<body>
+    <div class="ball"></div>
+    
+</body>
+</html>
